@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (MerklelexBot(MidTerms).vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  AdvisorBot.cpp
+  main.cpp
+  Generating Code...
+  TradingBotMidterms.vcxproj -> C:\Users\benja\Desktop\SIM UOL\Year 2 Sem 1\Object orientated programming\My submissions\TradingBotMidterms\Debug\TradingBotMidterms.exe

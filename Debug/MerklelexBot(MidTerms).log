@@ -1,0 +1,7 @@
+﻿  MerkleMain.cpp
+C:\Users\benja\Desktop\SIM UOL\Year 2 Sem 1\Object orientated programming\Assignments\uol-oop\Merklerex\MerklerexBot\MerkleMain.cpp(105,31): warning C4101: 'e': unreferenced local variable
+C:\Users\benja\Desktop\SIM UOL\Year 2 Sem 1\Object orientated programming\Assignments\uol-oop\Merklerex\MerklerexBot\MerkleMain.cpp(139,31): warning C4101: 'e': unreferenced local variable
+C:\Users\benja\Desktop\SIM UOL\Year 2 Sem 1\Object orientated programming\Assignments\uol-oop\Merklerex\MerklerexBot\MerkleMain.cpp(176,32): warning C4101: 'e': unreferenced local variable
+  main.cpp
+  Generating Code...
+  MerklelexBot(MidTerms).vcxproj -> C:\Users\benja\Desktop\SIM UOL\Year 2 Sem 1\Object orientated programming\My submissions\MerklelexBot(MidTerms)\Debug\MerklelexBot(MidTerms).exe

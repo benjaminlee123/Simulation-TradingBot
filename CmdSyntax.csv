@@ -1,0 +1,9 @@
+help,Lists all available commands of AdvisorBot and also accepts an arguement of a known command for more information, Syntax : help [opt-arg1], For e.g. help or help avg
+prod,Lists all available products for trade,Syntax : prod, For e.g. prod
+min,Finds minimum bid/ask of selected product in the current timestep,Syntax : min currency1/currency2 orderBookType, For e.g. min ETH/BTC ask
+max,Finds maximum bid/ask of selected product in the current timestep,Syntax : max currency1/currency2 orderBookType, For e.g. max ETH/BTC ask
+avg,Finds the average ask/bid of the selected product over the sent number of timesteps,Syntax : avg currency1/currency2 orderBookType timesteps, For e.g. avg ETH/BTC ask 10
+predict,Predicts the min/max bid/ask of the selected product for the next timestep,Syntax : predict min/max currency1/currency2 orderBookType, For e.g. predict max ETH/BTC bid
+time,States current timeframe in the dataset,Syntax : time, For e.g. time
+step,Advances to next timestep,Syntax : step, For e.g. step
+exit,Shuts down AdvisorBot,Syntax : exit, For e.g. exit
